@@ -1,0 +1,3 @@
+Materi SIM pertemuan kedua:
+- koneksi data dari sql ke r
+- blabla
